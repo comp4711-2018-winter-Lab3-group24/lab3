@@ -12,3 +12,13 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
     
 ## Updated Components
 - links for the php pages
+
+## *Version 0.02*
+
+## New Components
+    
+## Updated Components
+	-template.php
+	-every php file in views have been turned into 'content'
+	-MY-controller.php
+	-individual view controllers updated for template and content
