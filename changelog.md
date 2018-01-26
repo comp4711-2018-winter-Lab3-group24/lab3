@@ -22,3 +22,20 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 	-every php file in views have been turned into 'content'
 	-MY-controller.php
 	-individual view controllers updated for template and content
+	
+## *Version 0.03*
+
+## New Components
+	- Images.php
+	- _cell.php
+    
+## Updated Components
+	-template.php
+		link fixed for about page
+	-database.php
+		added new database
+	-gitignore
+	-autoload.php
+	-Gallery.php
+	-welcome.php (view/controller)
+		
